@@ -27,5 +27,4 @@ hash.hexdigest()
 
 # to base64
 base64.b64encode(hash.digest())
-}
 ```
